@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="primary">#2E7D32</color>
+    <color name="primary_dark">#1B5E20</color>
+    <color name="primary_light">#4CAF50</color>
+    <color name="accent">#FF8F00</color>
+
+    <!-- Table Status Colors -->
+    <color name="table_available">#388E3C</color>
+    <color name="table_occupied">#C62828</color>
+    <color name="table_expired">#B71C1C</color>
+    <color name="table_available_text">#FFFFFF</color>
+    <color name="table_occupied_text">#FFFFFF</color>
+
+    <!-- Stats Cards -->
+    <color name="stat_available">#2E7D32</color>
+    <color name="stat_occupied">#1565C0</color>
+    <color name="stat_waiting">#E65100</color>
+
+    <!-- Timer Colors -->
+    <color name="timer_normal">#FFFFFF</color>
+    <color name="timer_warning">#FFEB3B</color>
+    <color name="timer_expired">#FF5252</color>
+
+    <!-- UI Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="nav_bg">#1A1A2E</color>
+    <color name="nav_selected">#4CAF50</color>
+    <color name="header_bg">#1B5E20</color>
+
+    <!-- Button Colors -->
+    <color name="btn_free">#D32F2F</color>
+    <color name="btn_service">#388E3C</color>
+    <color name="btn_book">#1565C0</color>
+    <color name="btn_waiting">#E65100</color>
+</resources>

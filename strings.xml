@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">طاولتي</string>
+    <string name="app_subtitle">إدارة طاولات الكافيه</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_customers">العملاء</string>
+    <string name="nav_quick_book">حجز سريع</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <!-- Dashboard -->
+    <string name="available_tables">الطاولات المتاحة</string>
+    <string name="active_bookings">الحجوزات الحالية</string>
+    <string name="waiting_queue">قائمة الانتظار</string>
+    <string name="priority_queue">الحجوزات القادمة | حسب الأولوية</string>
+
+    <!-- Table Status -->
+    <string name="status_available">متاحة</string>
+    <string name="status_occupied">مشغولة</string>
+    <string name="status_expired">انتهى الوقت</string>
+
+    <!-- Booking Form -->
+    <string name="customer_name">اسم العميل</string>
+    <string name="phone_number">رقم الجوال</string>
+    <string name="guests_count">عدد الأشخاص</string>
+    <string name="area_indoor">داخلي 🏠</string>
+    <string name="area_outdoor">خارجي 🌿</string>
+    <string name="booking_duration">مدة الحجز (دقيقة)</string>
+    <string name="select_table">اختر الطاولة</string>
+    <string name="confirm_booking">تأكيد الحجز</string>
+    <string name="add_to_waiting">إضافة لقائمة الانتظار</string>
+
+    <!-- Table Actions -->
+    <string name="btn_free_table">إلغاء/تفريغ</string>
+    <string name="btn_service_done">تم الخدمة</string>
+
+    <!-- Settings -->
+    <string name="settings_title">الإعدادات</string>
+    <string name="cafe_name">اسم الكافيه</string>
+    <string name="indoor_tables_count">عدد الطاولات الداخلية</string>
+    <string name="outdoor_tables_count">عدد الطاولات الخارجية</string>
+    <string name="default_duration">مدة الحجز الافتراضية (دقيقة)</string>
+    <string name="alert_before">التنبيه قبل انتهاء الوقت (دقيقة)</string>
+    <string name="dark_mode">الوضع الليلي</string>
+    <string name="admin_password">كلمة مرور المدير</string>
+    <string name="save_settings">حفظ الإعدادات</string>
+    <string name="reset_tables">تحديث الطاولات</string>
+</resources>
